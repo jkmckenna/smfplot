@@ -1,4 +1,4 @@
-# smfplot
+# smfplot - This repo has been merged into [smftools](https://github.com/jkmckenna/smftools) and is accessible through the preprocessing, tools, and plotting modules
 A python package to visualize single locus single molecule footprinting data contained within an anndata object produced by [smftools](https://github.com/jkmckenna/smftools)
 
 **Current biologic questions include, but are not limited to:**
